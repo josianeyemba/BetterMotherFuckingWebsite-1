@@ -39,25 +39,4 @@
  	      <p>This page—that isn't a total fucking eyesore—was created by <a href="https://twitter.com/drew_mc">me</a> with help from <a href="https://twitter.com/gabehammersmith">him</a>. </p> 
  </body> 
  </html>
-p
-{ font-family:"Times New Roman", sans-serif}
 
-body
-{
-	font-family: "Time New Roman",sans-serif;
-	text-align:justify;
-	text-align:left;
-	margin-left: 29%;
-	margin-right: 30%;
-}
-body
-{
-	color: #444;
-}
-body
-{
-	max-width:650px;
-	font-size:18px; 
-	color:#444; 
-	padding:010px;}
-	h1,h2,h3{line-height:1.2;}
